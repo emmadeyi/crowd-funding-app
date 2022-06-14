@@ -1,0 +1,14 @@
+/* @import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities'; */
+
+/* @layer component {
+    .cms-content > P {
+        @apply mt-5
+    }
+} */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
